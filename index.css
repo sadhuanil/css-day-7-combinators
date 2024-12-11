@@ -1,0 +1,10 @@
+/* 1.Answer */
+.container  p+p{background-color: red;}
+/* 2.Answer */
+.box h2~p{background-color: blue;}
+/* 3.Answer */
+.wrapper>p{background-color: green;}
+/* 4.Answer */
+.box >p:last-child{background-color: yellow;}
+/* 5.Answer  */
+.box p~span{background-color: pink;}
